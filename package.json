@@ -1,0 +1,14 @@
+{
+  "name": "fedhapitest",
+  "version": "1.0.0",
+  "description": "Testing releasing a node-hapi web app to azuer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fed",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1"
+  }
+}
